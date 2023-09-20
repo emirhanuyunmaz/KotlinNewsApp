@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/menuAllNews" android:title="All News" android:icon="@drawable/all_baseline_ballot_24"></item>
+<item android:id="@+id/menuSaveNews" android:title="Save News" android:icon="@drawable/save_baseline_save_24"></item>
+<item android:id="@+id/menuSearchNews" android:title="Search News" android:icon="@drawable/search_baseline_manage_search_24"></item>
+</menu>
